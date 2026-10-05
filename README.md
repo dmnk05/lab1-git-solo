@@ -1,5 +1,7 @@
-\# Lab 1 - git
+Zmieniona pierwsza linia.
+# Lab 1 - git
 
 Opis laboratorium.
+
 ## Autor Dominik Małejkyj
 
