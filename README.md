@@ -1,5 +1,4 @@
-Zmieniona pierwsza linia.
-# Lab 1 - git
+# Projekt Beta
 
 Opis laboratorium.
 
