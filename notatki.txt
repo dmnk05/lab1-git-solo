@@ -6,3 +6,4 @@ zmiana
 zmiana2
 
 dopisz notatke na main
+zmiana notatek github
