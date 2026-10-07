@@ -3,4 +3,4 @@
 Opis laboratorium.
 
 ## Autor Dominik M 21510
-
+Zmiana readme
