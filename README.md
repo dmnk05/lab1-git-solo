@@ -2,5 +2,5 @@
 
 Opis laboratorium.
 
-## Autor Dominik Małejkyj
+## Autor Dominik M 21510
 
